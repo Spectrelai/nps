@@ -11,7 +11,7 @@ jobs:
 
   build_assets:
     
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
 
     - name: Set up Go 1.x
