@@ -11,7 +11,7 @@ jobs:
 
   build_assets:
     
-    runs-on: debian-buster
+    runs-on: ubuntu-20.04
     steps:
 
     - name: Set up Go 1.x
